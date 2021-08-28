@@ -3,7 +3,7 @@
 #### I'm an Undergraduate at University of Moratuwa
 
 I am an undergraduate at the University of Moratuwa Faculty of IT. I have developed my skills in using various technologies. Currently, I'm developing my skills to be a Full-stack developer.
-[https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif]
+(https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif)
 - 🔭 I’m currently working on React Asp, .net core
 
 
