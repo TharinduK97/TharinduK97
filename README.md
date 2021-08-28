@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Tharindu
 #### I'm an Undergraduate at the University of Moratuwa
-![I'm an Undergraduate at the University of Moratuwa](https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif)
+![I'm an Undergraduate at the University of Moratuwa](https://res.cloudinary.com/practicaldev/image/fetch/s--LwphdzNa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1468/1%2A-HtkHUxjLiK0tj6qOzdOrw.gif)
 
 I am an undergraduate at the University of Moratuwa Faculty of IT. I have developed my skills in using various technologies. Currently, I'm developing my skills to be a Full-stack developer.
 
