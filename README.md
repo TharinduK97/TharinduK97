@@ -1,7 +1,7 @@
-### Hi there 👋
+
 ### Hi there 👋, my name is Tharindu
 #### I'm an Undergraduate at University of Moratuwa
-![I'm an Undergraduate at the University of Moratuwa](https://www.cybersafe.news/wp-content/uploads/2020/11/github-770x400.png)
+![I'm an Undergraduate at the University of Moratuwa]
 
 I am an undergraduate at the University of Moratuwa Faculty of IT. I have developed my skills in using various technologies. Currently, I'm developing my skills to be a Full-stack developer.
 
