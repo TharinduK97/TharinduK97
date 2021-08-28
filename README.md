@@ -7,7 +7,7 @@ I am an undergraduate at the University of Moratuwa Faculty of IT. I have develo
 
 Skills: REACT JS / ASP .NET CORE / JAVA
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
@@ -18,6 +18,7 @@ Skills: REACT JS / ASP .NET CORE / JAVA
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TharinduK97&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduK97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TharinduK97/TharinduK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
